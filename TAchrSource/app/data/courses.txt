@@ -1,0 +1,104 @@
+111 [QUAN]  Introduction to Computer Programming 
+121  Program Design and Development C/C++ 
+121 (Effective through Summer 2022)  Program Design and Development C/C++ 
+122  Data Structures C/C++ 
+131  Program Design and Development Java 
+131 (Effective through Summer 2022)  Program Design and Development Java 
+132  Data Structures Java 
+215  Data Analytics Systems and Algorithms 
+223  Advanced Data Structures C/C++ 
+224  Programming Tools 
+233  Advanced Data Structures Java 
+260  Introduction to Computer Architecture 
+302  Professional Skills in Computing and Engineering 
+315  Introduction to Data Mining 
+317  Automata and Formal Languages 
+321  Object-Oriented Software Principles 
+322 [M]  Software Engineering Principles I 
+323  Software Design 
+327  Introduction to Cyber Security 
+350  Design and Analysis of Algorithms 
+355  Programming Language Design 
+360  Systems Programming C/C++ 
+370  Systems Programming Java 
+401  Computers and Society 
+411  Introduction to Parallel Computing 
+415  Big Data 
+421  Software Design Project I 
+422 [M]  Software Engineering Principles II 
+423 [CAPS]  Software Design Project II 
+423 (Effective through Summer 2022) [CAPS]  Software Design Project II 
+427  Applied Cyber Security 
+427 (Effective through Summer 2022)  Computer Security 
+428  Advanced Cyber Security 
+430  Numerical Analysis 
+434  Neural Network Design and Application 
+437  Introduction to Machine Learning 
+438  Scientific Visualization 
+439  Critical Infrastructure Security: The Emerging Smart Grid 
+440  Artificial Intelligence 
+442  Computer Graphics 
+443  Human-Computer Interaction 
+451  Introduction to Database Systems 
+452  Compiler Design 
+453  Graph Theory 
+455  Introduction to Computer Networks 
+460  Operating Systems and Computer Architecture 
+464  Distributed Systems Concepts and Programming 
+466  Embedded Systems 
+471  Computational Genomics 
+475  Data Science 
+476  Software Construction and Maintenance 
+478  Software Process and Management 
+479  Mobile Application Development 
+481  Python Software Construction 
+483  Topics in Computer Science 
+484  Software Requirements 
+485  Gerontechnology I 
+486  Gerontechnology II 
+487  Software Design and Architecture 
+488  Professional Practice Coop/Internship I 
+489  Web Development 
+490  Work Study Internship 
+499  Special Problems 
+500  Proseminar 
+515  Advanced Algorithms 
+515 (Effective through Summer 2022)  Advanced Algorithms 
+516  Algorithmics 
+527  Computer Security 
+527 (Effective through Summer 2022)  Computer Security 
+528  Advanced Cyber Security 
+530  Numerical Analysis 
+531  Advanced Matrix Computations 
+534  Neural Network Design and Application 
+538  Scientific Visualization 
+540  Artificial Intelligence 
+542  Computer Graphics 
+543  Human-Computer Interaction 
+548  Advanced Computer Graphics 
+550  Parallel Computation 
+553  Graph Theory 
+555  Computer Communication Networks 
+557  Advanced Computer Networks 
+560  Operating Systems 
+561  Advanced Computer Architecture 
+562  Fault Tolerant Computer Systems 
+564  Distributed Systems Concepts and Programming 
+566  Embedded Systems 
+570  Machine Learning 
+571  Computational Genomics 
+572  Numerical Methods in Computational Biology 
+573  Bioinformatics Software Development 
+575  Data Science 
+577  Structured Prediction: Algorithms and Applications 
+580  Advanced Topics in Computer Science 
+581  Software Maintenance 
+582  Software Testing 
+583  Software Quality 
+587  Software Design and Architecture 
+591  Elements of Network Science 
+595  Directed Study in Computer Science 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Viewing professor {{current_user.lastName}}'s current TAship openings: </h2>
+    <div class = "TeacherPosts">
+        {% for TAShip in TAShips %}
+            {% include '_teacher_listing.html' %}
+        {% endfor %}
+    </div>
+
+{% endblock %}

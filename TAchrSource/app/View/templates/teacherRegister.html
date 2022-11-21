@@ -1,0 +1,62 @@
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+{% block content %}
+    <h1>Teacher Registration</h1>
+
+    <!-- TODO: (milestone 3) Include the template for "user registration" form here..  -->
+    <form action = "{{url_for('auth.registerTeacher')}}" method = "post">
+        {{ form.hidden_tag() }}
+        <div class = "registerForm">
+            {{form.firstName.label(class = "formTitle")}}<br>
+            {{form.firstName(class = "forminput")}}<br>
+
+            {% for error in form.firstName.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.lastName.label(class = "formTitle")}}<br>
+            {{form.lastName(class = "forminput")}}<br>
+
+            {% for error in form.lastName.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.wsuID.label(class = "formTitle")}}<br>
+            {{form.wsuID(class = "forminput")}}<br>
+
+            {% for error in form.wsuID.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.email.label(class = "formTitle")}}<br>
+            {{form.email(class="forminput")}}<br>
+
+            {% for error in form.email.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.phoneNumber.label(class = "formTitle")}}<br>
+            {{form.phoneNumber(class = "forminput")}}<br>
+
+            {% for error in form.phoneNumber.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.password.label(class = "formTitle")}}<br>
+            {{form.password(class = "forminput")}}<br>
+
+            {% for error in form.password.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.password_confirm.label(class = "formTitle")}}<br>
+            {{form.password_confirm(class = "forminput")}}<br>
+
+            {% for error in form.password_confirm.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+        </div>
+
+        {{form.submit(class="regButton")}}
+    </form>
+{% endblock %}

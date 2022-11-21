@@ -1,0 +1,46 @@
+<html>
+    <head>
+       {% if title %}
+          <title>{{ title }} - TAchr  </title>
+       {% else %}
+          <title> Welcome to TAchr! </title>
+       {% endif %}
+       <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+       <!--TODO: (milestone 3)  Include `moment` library -->
+    </head>
+
+    <body>
+        <header>
+            <a href = "{{url_for('routes.index')}}" class = "alogo"> <img class ="logo" src="{{ url_for('static', filename='img/TAChr.png') }}"></a>
+            <nav>
+                <ul class = "navLinks">
+                        {% if current_user.userType == "student" %}
+                            <li><a href="{{ url_for('routes.index') }}" class = "navButton" style = "text-decoration:none">TA Listings</a></li>
+                        {% endif %}
+                    
+                    
+                        {% if current_user.userType == "teacher" %}
+                            <li><a href="{{ url_for('routes.createTAShip') }}" class = "navButton">Create TA Position</a></li>
+                        {% endif %}
+
+                        <li><a href="{{ url_for('routes.display_profile', id = current_user.id) }}" class = "navButton", style = "text-decoration:none"> Profile </a></li>
+                        <li><a href="{{ url_for('auth.logout') }}" class = "navButton", style = "text-decoration:none"> Logout </a></li>
+                        <li> Current user is: <span class="useritem">{{current_user.firstName}}</span> </li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <div class = "flash-container">
+                {% for message in messages %}
+                <div> {{ message }}</div>
+                {% endfor %}
+        {% endif %}
+        </div>
+    {% endwith %}
+    </div>
+
+        {% block content %} {% endblock %}
+    </body>
+</html>

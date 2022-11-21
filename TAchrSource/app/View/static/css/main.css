@@ -1,0 +1,522 @@
+@font-face {
+    font-family: Coolevtica;
+    src: url("..//img//coolvetica.rg-regular.ttf");
+  }
+
+  @font-face {
+    font-family: buttonFont;
+    src: url("..//img//chosence.regular.otf");
+  }
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+
+
+#myVideo {
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+-o-filter: blur(5px);
+    filter: blur(5px);
+}
+body {
+    margin: 1px 1px 1px 5px;
+    padding: 1px;
+    font-family: Tahoma;
+    text-align: left;
+  
+}
+.nav-container {
+    background:#f6f6f6;
+    font-family: Tahoma;
+    font-size: 12px;
+    height: 32px;
+    text-transform: uppercase;
+}
+a:hover {
+	color:#2387D9;
+}
+
+.button {
+    width : 65px;
+    padding : 3px;    
+    font-size: 16px;
+    margin : 5px;
+    padding : 5px;
+    border: 1px solid lightgray;
+    text-decoration: none;
+}
+.button:hover {
+    background-color: 157dd3;
+    color: #FBFBFF;
+    cursor:pointer;
+}
+.regButton {
+    padding : 3px;    
+    font-size: 16px;
+    margin : 5px;
+    padding : 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.regButton:hover {
+    background-color: 157dd3;
+    color: #FBFBFF;
+    cursor:pointer;
+}
+
+.posttable{ 
+    width : 100%;
+    margin-left: 0px;
+    border: 6px solid #2387D9;
+    border-radius: 0 0 25px 25px;
+    background-color: #FBFBFF;
+    display: inline-table;
+    margin-bottom: 2em;
+    table-layout: auto;
+    padding: 0;
+    /* border-collapse: collapse; */
+
+
+}
+.centeredRow
+{
+    text-align: center;
+    font-family: coolevtica;
+    font-size: 150%;
+}
+.centeredRowNormal
+{
+    text-align: center;
+
+}
+th{
+    width: 50%;
+
+}
+td{
+
+    width: 50%;
+}
+.postHeader
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    padding: 5px;
+    text-align: center;
+    border: none;
+    width: auto;
+    background-color: #01BAEF;
+}
+.applicantHeader{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    padding: 5px;
+    text-align: left;
+    border: none;
+    width: auto;
+    background-color: lightgray;
+}
+.applyBtn:hover
+{
+    background-color:lightgray; 
+}
+.studentposts
+{
+    margin-right: 1%;
+}
+.applyContainer
+{
+    margin: 0;
+    padding: 0;
+}
+.applyBtn
+{
+    background-color: #FBFBFF;
+    width: 100%;
+    height:100%;
+    border-radius: 0 0 25px 25px;
+    margin: 0;
+    padding: 0;
+    border: 10px solid transparent;
+    font-size:200%;
+    font-family:coolevtica;
+}
+.viewProfileBtn
+{
+    background-color: #FBFBFF;
+    width: 100%;
+    height:100%;
+    margin: 0;
+    padding: 0;
+    border: 10px solid transparent;
+    font-size:130%;
+    font-family:coolevtica;
+}
+.viewProfileBtn:hover
+{
+    background-color:lightgray; 
+}
+
+.applyBtnRow
+{
+    border-radius: 0 0 25px 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.posttitle {
+    text-align: center;
+    font-weight: bold;
+}
+
+.useritem{
+    text-align: center;
+    padding: 3px;
+    margin: 4px 3px 4px 3px;
+    color: crimson; 
+    text-transform: uppercase;
+}
+
+.likebtn {
+    margin: 0 auto;
+    height: 40px;
+    width: 50px;
+    border: 0px;
+    vertical-align: middle;
+    background-image: url("..//img//like.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+} 
+.likebtn:hover {
+    background-image: url("..//img//like_hover.png");
+    cursor:pointer;
+}
+.loginInput
+{
+    height: 20%;
+    width: 100%;
+    padding-right: 6%;
+    border-radius: 50px;
+    border-width: 100%;
+    font-size: 300%;
+    padding-left: 7%;
+    font-family: Coolevtica;
+    border-width: 0px;
+
+}
+.registerButtonDiv
+{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  align-items: stretch;
+}
+.registerButtonSubDiv
+{
+    width: 50%;
+}
+.registerButton
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    height:200%;
+
+    border-radius: 50px 0 0 50px;
+    border-width: 0px;
+}
+.registerButton:hover
+{
+    background-color: #B80C09;
+}
+.registerButtonRight
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    height:200%;
+    border-radius: 0 50px 50px 0;
+    border-width: 0px;
+}
+.registerButtonRight:hover
+{
+    background-color: #B80C09;
+}
+.loginBody
+{
+    /* background-image: url("..//img//background1.png"); */
+    margin: 0;
+
+}
+.loginButton
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   ;
+    width: 100%;
+    height: 15%;
+    font-size: 200%;
+    border-radius: 50px;
+    border-width: 0px;
+}
+
+.loginButton:hover {
+    background-color: B80C09;
+}
+.loginForm
+{
+
+}
+.loginDiv
+{
+    position: absolute;
+    width: 30%;
+  height: 50%;
+    top: 55%;
+    left: 50%;
+    margin: -25% 0 0 -15%;
+}
+
+.TAchrHeader
+{
+    text-align: center;
+    font-size: 500%;
+    color:black;
+}
+.formInput
+{
+    border-radius: 50px;
+    width:25%;
+    height: 4%;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-size: 125%;
+    font-family: coolevtica;
+    margin-top :0.5%;
+    margin-bottom: 0.5%;
+
+}
+.formTitle
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+
+}
+.formInput:hover
+{
+    background-color: B80C09;
+}
+.formInput:focus 
+{
+    background: white;  
+}
+
+.registerForm
+{
+
+
+}
+.coursesText
+{
+    padding: 5px;
+}
+.coursesDiv
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 1%;
+    padding-left: 0.5%;
+    display: flex;
+    flex-direction: row;    
+    margin-right:0.5%;
+}
+.deleteForm
+{
+    margin: auto;
+}
+.removeButtonCourse
+{
+    border-radius: 10px;
+    border: 1px solid transparent;
+    height:100%;
+
+}
+.buttonHolder
+{ 
+
+    display: grid;
+    margin-left:auto;
+}
+.flash-container
+{
+	background:#99c5ee;
+	font-family:Tahoma;
+	font-size:16px;
+	padding:25px;
+	margin: 10px 0px 10px 0px;
+}
+
+li,a{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.1em;
+    color: black;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #f6f6f6;
+}
+
+.navLinks {
+    list-style: none;
+}
+
+.navLinks li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navLinks li a {
+    transition:all 0.3s ease 0s;
+}
+
+.navLinks li a:hover {
+    color: #0088a9;
+}
+
+.navLinks li:nth-child(4){
+    background-color: lightgray;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-size: 1.2em
+}
+
+.navButton{
+    padding: 9px 25px;
+    background-color: none;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition:all 0.3s ease 0s;
+}
+
+.logo{
+    width: 200px;
+    padding: 0;
+    background: none;
+    margin-right: auto;
+}
+.alogo
+{
+    margin-right: auto;
+
+}
+
+.editProfile{
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #0088a9;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.editProfile span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+
+  .editProfile span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .editProfile:hover span {
+    padding-right: 25px;
+  }
+  
+  .editProfile:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+.addClassInput
+{
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 125%;
+    padding-left: 0.5%;
+}
+
+.newclassheader{
+    margin-top: 2em;
+}
+
+.rejectTABtn
+{
+    border-radius: 0 0 15px 0;
+}
+.acceptTABtn
+{
+    border-radius: 0 0 0 15px ;
+}
+
+.rejectTABtn:hover
+{
+    background-color: red;
+}
+.acceptTABtn:hover
+{
+    background-color: green;
+}
+.acceptedStatus
+{
+    color: green;
+}
+.rejectStatus
+{
+    color: red;
+}
+.rescindBtn
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 0 0 15px 15px;
+    border: transparent;
+    font-size: 200%;
+    padding: 10px;
+}
+.rescindBtn:hover
+{
+    background-color: red;
+}
+.redHover:hover
+{
+    background-color: red;
+}
+.greenHover:hover
+{
+    background-color: green;
+}
+.fill
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}

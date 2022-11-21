@@ -1,0 +1,43 @@
+<table class = "posttable" style = "width:100%" valign="top">
+    <tr>
+        <th class = "PostHeader" colspan="2">{{TAShip.title}}</th>
+    </tr>
+    <tr >
+        <th class = "centeredRow" colspan = "2">Professor {{TAShip.creator.lastName}} ({{TAShip.creator.phoneNumber[0:3]}}-{{TAShip.creator.phoneNumber[3:6]}}-{{TAShip.creator.phoneNumber[6:]}}) ({{TAShip.creator.email}})</th>
+    </tr>
+    <tr>
+        <th>Semester</th>
+        <td>{{TAShip.semester}}</td>
+    </tr>
+    <tr>
+        <th>Number of TA's Needed</th>
+        <td>{{TAShip.acceptedTACount}}/{{TAShip.TACount}}</td>
+    </tr>
+    <tr>
+        <th>Minimum Cumulative Grade</th>
+        <td>{{TAShip.cumGPA}}</td>
+    </tr>
+    <tr>
+        <th>Minimum Grade</th>
+        <td>{{TAShip.minGrade}}</td>
+    </tr>
+    <tr>
+        <th>Number of applicants</th>
+        <td>{{TAShip.applications.count()}}</td>
+    </tr>
+    <tr class = "viewApplicantsContainer" >
+    {% if TAShip.applications.count() > 0%}
+        <th colspan = "2"  class = "applyBtnRow" rowspan = "6">
+            <form action = "{{url_for('routes.viewApplicants', id = TAShip.id)}}" method = "post" class = "fill">
+                {% if TAShip.acceptedTACount == TAShip.TACount %}
+                <input type="submit" value = "View TAs" class ="applyBtn greenHover">
+                {% else %}
+                <input type="submit" value = "View Applicants" class ="applyBtn redHover">
+                {% endif %}
+            </form>
+        </th>
+    {% else %}
+        <th colspan = "2"  class = "applyBtnrow">No current applicants</th>
+    {% endif %}
+    </tr>
+</table>

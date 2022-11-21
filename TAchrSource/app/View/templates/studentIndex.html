@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <form action = "" method = "POST">
+        <p>{{form.sortByQualify}} {{form.sortByQualify.label}}</p>
+        <p>{{form.submit(class = "refreshButton") }}</p>
+    </form>
+
+    <div class = "StudentPosts">
+        {% for TAShip in TAShips %}
+            {% include '_ta_listing.html' %}
+        {% endfor %}
+    </div>
+
+{% endblock %}

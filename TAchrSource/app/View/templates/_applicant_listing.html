@@ -1,0 +1,53 @@
+<table class = "posttable" style = "width:100%" valign="top">
+    <tr>
+        <th class = "applicantHeader" colspan="2">Student: {{applicant.applicationStudent.firstName}} {{applicant.applicationStudent.lastName}}</th>
+    </tr>
+    <tr>
+        <th>Date Applied</th>
+        <td class = "centeredRowNormal">{{applicant.appTime.strftime('%Y-%m-%d')}}</td>
+    </tr>
+    <tr>
+        <th>Grade In Class</th>
+        {% for grade in applicant.applicationStudent.takencourses %}
+            {% if grade.teachercourse_id == applicant.taship.teachercourse_id %}
+                <td  class = "centeredRowNormal">{{grade.grade}}</td>
+            {% endif %}
+        {% endfor %}
+    </tr>
+    <tr>
+        <th>GPA</th>
+        <td  class = "centeredRowNormal">{{applicant.applicationStudent.cumGPA}}</td>
+    </tr>
+    <tr>
+        <th>Status</th>
+        {% if applicant.status == "Accepted" %}
+            <td  class = "centeredRowNormal acceptedStatus">{{applicant.status}}</td>
+        {% elif applicant.status == "Rejected" %}
+            <td  class = "centeredRowNormal rejectedStatus">{{applicant.status}}</td>
+        {% else %}
+            <td  class = "centeredRowNormal">{{applicant.status}}</td>
+        {% endif %}
+    </tr>
+    {% if applicant.status == "Pending" %}
+    <tr class = "applyContainer" >
+        <th colspan = "2"  class = "applyBtnRow">
+            <form action = "{{url_for('routes.display_profile', id = applicant.applicationStudent.id)}}" method = "post" class = "deleteForm">
+                <input type="submit" value = "View Applicant Profile" class ="viewProfileBtn">
+            </form>
+        </th>
+    </tr>
+    <tr class = "applyContainer" >
+        <th class = "applyBtnRow" colspan = '1'>
+            <form action = "{{url_for('routes.accept', sid = applicant.applicationStudent.id, tid = applicant.taship.id,option= 0, vid = taship.id)}}" method = "post" class = "deleteForm">
+                <input type="submit" value = "Accept" class ="acceptTABtn viewProfileBtn">
+            </form>
+        </th>
+        <td class = "applyBtnRow" colspan = '1'>
+            <form action = "{{url_for('routes.accept', sid = applicant.applicationStudent.id, tid = applicant.taship.id,option= 1, vid = taship.id)}}" method = "post" class = "deleteForm">
+                <input type="submit" value = "Reject" class ="rejectTABtn viewProfileBtn">
+            </form>
+        </td>
+    </tr>
+    {% endif %}
+
+</table>

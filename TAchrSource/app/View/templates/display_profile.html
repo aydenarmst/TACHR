@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Display Profile</h1>
+    <p><b>Email:</b> {{profile.email}}</p>
+    <p><b>Name:</b> {{profile.firstName}} {{profile.lastName}}</p>
+    <p><b>WSU ID:</b> {{profile.wsuID}}</p>
+    <p><b>Phone Number:</b> {{profile.phoneNumber}}</p>
+
+    {% if profile.userType == 'student' %}
+        <p><b>Major:</b> {{profile.major.first().title}}</p>
+        <p><b>Cumulative GPA:</b> {{profile.cumGPA}}</p>
+        <p><b>Graduation Date:</b> {{profile.graduationDate}}</p>
+    {% endif %}
+
+    {% if profile == current_user %}
+        <form action = "{{url_for('routes.edit_profile')}}">
+            <button class = "editProfile"><span> Edit Profile </span></button>
+        </form>
+    {% endif %}
+
+    {% if profile.userType == 'student' %}
+        {% if courseAddForm %}
+        <h2 class = "newClassHeader">Add a new class:</h2>
+        <form action = "{{url_for('routes.display_profile', id = profile.id)}}" method = "post">
+            {{ courseAddForm.hidden_tag() }}
+            <div>
+                {{courseAddForm.courseTitle(class = "addClassInput")}}
+                
+                {{courseAddForm.grade(class = "addClassInput")}}
+                
+                {{courseAddForm.semester(class = "addClassInput")}}
+                {{courseAddForm.submit(class="regButton")}}
+            </div>
+        </form>
+        {% endif %}
+        <h2 class = "newClassHeader">Past Classes:</h2>
+        {% for course in profile.takencourses %}
+        <div class = "coursesDiv" >
+            <p class = "coursesText">{{course.course.title}}</p> 
+            <p class = "coursesText">{{course.grade}}</p>
+            <p class = "coursesText">{{course.semester}}</p>
+            <div class="buttonHolder">
+            {% if profile == current_user %}
+            <form action = "{{url_for('routes.delete_class', id = course.id)}}" method = "POST" class = "deleteForm">
+                <input type="submit" value = "Remove" class ="removeButtonCourse">
+            </form>
+            {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    {% else %}
+        <h2 class = "newClassHeader">Created TA Positions:</h2>
+        {% for position in profile.TAships %}
+            <div class = "coursesDiv" >
+                <p class = "coursesText"><h4>Title: {{position.title}}</h4> </p> 
+                <p class = "coursesText">Semester: {{position.semester}}</p>
+                <p class = "coursesText">TAcount: {{position.TACount}}</p>
+                <p class = "coursesText">Minimum Grade: {{position.minGrade}}</p>
+                <p class = "coursesText">Min cumulative GPA: {{position.cumGPA}}</p>
+            </div>
+        {% endfor %}
+    {% endif %}
+
+    
+{% endblock %}

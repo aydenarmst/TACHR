@@ -1,0 +1,57 @@
+
+
+{% block content %}
+<video autoplay muted loop id="myVideo">
+    <source src="{{ url_for('static', filename='img/backgroundVid.mp4') }}" type="video/mp4">
+</video>
+
+<body class = "loginBody">
+    <div class = "flash-container">
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            {% for message in messages %}
+            <div> {{ message }}</div>
+            {% endfor %}
+        {% endif %}
+        {% endwith %}
+    </div>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    </head>
+    
+    <div class = "loginDiv">
+        <h1 class = "TAchrHeader">TAchr</h1>
+    <form action = "{{url_for('auth.login')}}" method = "post", class ="loginForm">
+        {{ form.hidden_tag() }}
+        <div>
+            {{form.email(class = "loginInput",placeholder="Email")}}<br>
+
+            {% for error in form.email.errors %}
+                <span style = "color: red;">[{{error}}]</span>
+            {% endfor %}
+
+            <br><br>
+            {{form.password(class = "loginInput", placeholder="Password")}}<br>
+
+            {% for error in form.password.errors %}
+                <span style = "color: red;">[{{error}}]</span>
+            {% endfor %}
+
+        </div>
+        <br><br>
+
+        {{form.submit(class="loginButton")}}
+    </form>
+    <div class = "registerButtonDiv">
+        <div class = "registerButtonSubDiv">
+            <a href="{{url_for('auth.registerStudent')}}"><button type="button" class = "registerButton">New Student</button></a>
+        </div>
+        <div class = "registerButtonSubDiv">
+            <a href="{{url_for('auth.registerTeacher')}}"><button type="button" class = "registerButtonRight"> New Teacher</button></a>
+        </div>
+    </div>
+   
+    </div>
+</body>
+{% endblock %}
+

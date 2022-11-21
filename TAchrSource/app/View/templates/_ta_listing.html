@@ -1,0 +1,48 @@
+<table class = "posttable" style = "width:100%" valign="top">
+    <tr>
+        <th class = "PostHeader" colspan="2">{{TAShip.title}}</th>
+    </tr>
+    <tr >
+        <th class = "centeredRow" colspan = "2">Professor {{TAShip.creator.lastName}} ({{TAShip.creator.phoneNumber[0:3]}}-{{TAShip.creator.phoneNumber[3:6]}}-{{TAShip.creator.phoneNumber[6:]}}) ({{TAShip.creator.email}})</th>
+    </tr>
+    <tr>
+        <th>Semester</th>
+        <td>{{TAShip.semester}}</td>
+    </tr>
+    <tr>
+        <th>Number of TA's Needed</th>
+        <td>{{TAShip.TACount}}</td>
+    </tr>
+    <tr>
+        <th>Minimum Cumulative Grade</th>
+        <td>{{TAShip.cumGPA}}</td>
+    </tr>
+    <tr>
+        <th>Minimum Grade</th>
+        <td>{{TAShip.minGrade}}</td>
+    </tr>
+    <tr class = "applyContainer" >
+    {% if TAShip.applications.filter_by(student_id = current_user.id).first() is none %}
+        <th colspan = "2"  class = "applyBtnRow" rowspan = "6">
+            <form action = "{{url_for('routes.apply',id=TAShip.id)}}" method = "POST" class = "deleteForm">
+                <input type="submit" value = "Apply" class ="applyBtn">
+            </form>
+        </th>
+    {% elif  TAShip.applications.filter_by(student_id = current_user.id).first().status == "Pending" %}
+        <th colspan = "2"  class = "applyBtnRow" rowspan = "6">
+            <form action = "{{url_for('routes.rescind',id=TAShip.id)}}" method = "POST" class = "deleteForm">
+                <input type="submit" value = "Rescind" class ="rescindBtn">
+            </form>
+        </th>
+    {% else %}
+    <th colspan = "2"  class = "applyBtnRow">{{TAShip.applications.filter_by(student_id = current_user.id).first().status}}</th>
+
+    {% endif %}
+    </tr>
+
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+</table>

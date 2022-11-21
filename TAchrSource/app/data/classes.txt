@@ -1,0 +1,592 @@
+307 [ARTS] [M]  The Arts of Renaissance Europe 
+308 [M]  Women Artists I 
+310 [M]  Women Artists II 
+403 [M]  Modern Theories of Art 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+500  Macroeconomic Theory I 
+501  Microeconomic Theory I 
+502  Macroeconomic Theory II 
+503  Microeconomic Theory II 
+510  Statistics for Economists 
+600  Special Projects or Independent Study 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+100  Studies in Foreign Languages I 
+130 [HUM]  Global Literature in Translation 
+200  Studies in Foreign Languages II 
+220  Global Issues, Regional Realities 
+440  Methods of Teaching Foreign Languages 
+540  Methods of Teaching Foreign Languages 
+600  Special Projects or Independent Study 
+101  First Semester 
+2VM95:3 102 (Effective through Fall 2011)  Second Semester 
+102  Second Semester 
+104  Intensive French: Foundations of Language and Culture 
+310  French and Francophone Film 
+301  Food Mycology 
+405  Ciders and Other Fermented Foods 
+406  Evaluation of Dairy Products 
+409  Principles of Environmental Toxicology 
+429  Dairy Processing 
+430  Dairy Processing Lab 
+465  Wine Microbiology and Processing 
+470  Advanced Food Technology 
+509  Principles of Environmental Toxicology 
+510  Functional Foods and Health 
+511  Food Lipids 
+512  Food Proteins and Enzymes 
+515  Food Fermentations -- Microbiology and Technology 
+529  Dairy Processing 
+530  Dairy Processing Lab 
+532  Advanced Food Microbiology 
+565  Wine Microbiology and Processing 
+570  Advanced Food Technology 
+583  Advances in Cereal Chemistry and Technology 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+2VM95:3 130 (Effective through Summer 2009)  Nutrition for Living 
+2VM95:3 102 (Effective through Summer 2008)  Physical Geology 
+120 [HUM]  Germanic Culture 
+300  Child Maltreatment 
+301  Family Stress and Coping 
+302  Parent-Child Relationships 
+306  Child Development 
+307  Adolescence and Emerging Adulthood 
+308  Adult Development 
+360  Death and Dying 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+600  Special Projects or Independent Study 
+800  Doctoral Research, Dissertation, and/or Examination 
+2VM95:3 102 (Effective through Summer 2012)  Modern Europe 
+105 [ROOT]  The Roots of Contemporary Issues 
+120 [DIVR]  World History I 
+121 [HUM]  World History II 
+201  Asian Pacific American History 
+232 [ARTS]  The Mexican Revolution and the Arts 
+250 [DIVR]  Peoples of the United States 
+270 [DIVR]  India: History and Culture 
+279  Introduction to Social Studies Methods 
+280  Race and the Law in American History 
+281 [DIVR]  History of Organized Crime in America 
+291  History of World Trade 
+301  History in Popular Culture 
+305 [ROOT]  Roots of Contemporary Issues For Transfer Students 
+306  Cultures and Peoples of the Middle East 
+307  Religion and American Culture 
+313  Early American History to 1750 
+319 [HUM]  American History, 1945-1980 
+321 [DIVR]  US Popular Culture, 1800 to 1930 
+322 [DIVR]  US Popular Culture Since 1930 
+330  History of Mexico 
+332 [HUM]  20th Century Latin America 
+343 [HUM]  The Early Middle Ages, 330-1050 
+344  The Later Middle Ages, 1050-1500 
+345  Inquisitors, Heretics, and Witches in the Early Modern World 
+350 [HUM]  Witches, Nuns, Merchants, and Queens in Europe 1200-1800 
+355 [HUM]  Life and Culture of the Popular Classes in Europe, 1200-1800 
+356 [HUM] [M]  Europe Since 1945 
+360 [SSCI]  Black Freedom Struggle 
+366  History of the Cold War, 1944-present 
+370  History of Ancient and Medieval India 
+380  Methods of Teaching Social Studies 
+390  U.S. Military History 
+391  The Great War 1914 - 1920 
+410  History of American Indian Sovereignty and Federal Indian Law 
+2VM95:3 412 (Effective through Summer 2008)  American Diplomatic History in the 20th Century 
+420 [CAPS]  American History, 1980-Present 
+435 [CAPS]  European Colonization of the Globe, 1400-1800 
+436 [CAPS]  Empire and Decolonization, 1800 to the Present 
+444 [CAPS]  The Renaissance: Art, Violence, and Early Globalization 
+462  History of Imperial Russia 
+463 [M]  History of the Soviet Union 
+465  Representations of the Holocaust 
+474 [CAPS]  Modern South Asia: Community and Conflict 
+476  Revolutionary China, 1800 to Present 
+561  Field Course in Early Modern European History 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+102  Introduction to Cultivated Plants 
+202  Crop Growth and Development 
+320  Olericulture 
+330  Landscape Plants for Urban and Community Environments 
+331  Landscape Plant Installation and Management 
+350  Food Systems in Western Washington 
+409  Seminar in Viticulture and Enology 
+416  Advanced Horticultural Crop Physiology 
+418 [M]  Post-harvest Biology and Technology 
+421  Fruit Crops Management 
+440  Winery Operations and Equipment 
+441  Winery Operations and Equipment Lab Field Trip 
+480  Plant Genomics and Biotechnology 
+516  Advanced Horticultural Crop Physiology 
+518 [M]  Post-harvest Biology and Technology 
+521  Fruit Crops Management 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+120  Traditional Chinese Culture 
+130 [HUM]  Global Literature in Translation 
+205 [HUM]  Introduction to Shakespeare 
+303 [M]  Reason, Romanticism, and Revolution 
+320 [DIVR] [M]  Issues in East Asian Ethics 
+450  Representations of the Holocaust 
+470  International Trade and Finance 
+600  Special Projects or Independent Study 
+101  Design Issues 
+197  Design Communication I 
+350 [M]  History of Interiors II 
+530  Philosophies and Theories of the Built Environment 
+540  Research Methods 
+560  Interdisciplinary Seminar 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study and/or Examination 
+203  Third Semester 
+204  Fourth Semester 
+120  Traditional Japanese Culture 
+320 [DIVR] [M]  Issues in East Asian Ethics 
+305  Nutrition Related to Fitness and Sport 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+210  Digital Analysis and Representation 
+530  Philosophies and Theories of the Built Environment 
+540  Research Methods 
+560  Interdisciplinary Seminar 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+102  Second Semester Latin 
+103  Latin Grammar Tutorial 
+800  Doctoral Research, Dissertation, and/or Examination 
+501  Continuum Mechanics 
+507  Additive Manufacturing 
+509  MEMS Engineering 
+520  Multiscale Modeling in Thermomechanics of Materials 
+530  Elasticity 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+701  Master's Independent Capstone Project and /or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+505  Advanced Materials Science 
+506  Biomaterials 
+521  Statistics of Microstructures 
+600  Special Projects or Independent Study 
+800  Doctoral Research, Dissertation, and/or Examination 
+2VM95:3 106 (Effective through Fall 2009)  College Algebra 
+2VM95:3 106 (Effective through Fall 2011)  College Algebra 
+2VM95:3 107 (Effective through Summer 2008)  Elementary Functions 
+2VM95:3 107 (Effective through Summer 2012)  Precalculus 
+2VM95:3 108 (Effective through Summer 2009)  PRECALC TRIG 
+2VM95:3 108 (Effective through Fall 2009)  Trigonometry 
+2VM95:3 108 (Effective through Fall 2011)  Trigonometry 
+110  Mathematics Acceleration 
+111  Mathematics Tutorial for MATH 201 
+115  Math 105 Tutorial 
+116  Math 106 Tutorial 
+140 [QUAN]  Calculus for Life Scientists 
+2VM95:3 171 (Effective through Fall 2011)  Calculus I 
+171 [QUAN]  Calculus I 
+202 [QUAN]  Calculus for Business and Economics 
+2VM95:3 205 (Effective through Spring 2012)  Statistical Thinking 
+2VM95:3 205 (Effective through Summer 2012)  Statistical Thinking 
+2VM95:3 205 (Effective through Spring 2013) [QUAN]  Statistical Thinking 
+2VM95:3 205 (Effective through Summer 2013) [QUAN]  Statistical Thinking 
+2VM95:3 205 (Effective through Fall 2013) [QUAN]  Statistical Thinking 
+220  Introductory Linear Algebra 
+225  Linear Algebra with Modern Applications 
+230  Honors Introductory Linear Algebra 
+340  Introduction to Mathematical Biology 
+440  Applied Mathematics I: PDEs 
+448  Numerical Analysis 
+453  Graph Theory 
+456  Introduction to Statistical Theory 
+464 [CAPS]  Linear Optimization 
+536  Statistical Computing 
+2VM95:3 540 (Effective through Summer 2012)  Applied Mathematics I 
+2VM95:3 540 (Effective through Fall 2012)  Applied Mathematics I 
+540  Applied Mathematics I: PDEs 
+548  Numerical Analysis 
+553  Graph Theory 
+561  Partial Differential Equations II 
+568  Statistical Theory I 
+570  Continuum Mechanics 
+571  Mathematical Foundations of Continuum Mechanics II 
+600  Special Projects or Independent Study 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+101 [BSCI]  Introductory Microbiology 
+201 [COMM]  Introduction to Communication in the Molecular Life Sciences 
+301  General Genetics 
+305  General Microbiology 
+306  General Microbiology Laboratory 
+401  Cell Biology 
+405  Cell Biology of Disease 
+440  Immunology 
+450  Microbial Physiology 
+480  Methods of Teaching Secondary Science I 
+501  Cell Biology 
+505  Cell Biology of Disease 
+525  Advanced Topics in Genetics 
+529  Selected Topics in Cell Biology 
+540  Immunology 
+548  Selected Topics in Immunology &amp; Virology 
+550  Microbial Physiology 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+701  Master's Independent Capstone Project and /or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+101  Fundamentals of Business 
+2VM95:3 301 (Effective through Fall 2012)  mgmt 301 - Inactive 
+2VM95:3 301 (Effective through Fall 2012)  Principles of Management and Organization 
+301  Principles of Management and Organization 
+600  Special Projects or Independent Study 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+600  Special Projects or Independent Study 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+396  Leader Internship 
+600  Special Projects or Independent Study 
+800  Doctoral Research, Dissertation, and/or Examination 
+552  Multicultural Education in a Global Society 
+702  Master's Special Problems, Directed Study, and/or Examination 
+495 [M]  Marketing Management 
+600  Special Projects or Independent Study 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation and/or Examination 
+406  Biomaterials 
+505  Advanced Materials Science 
+506  Biomaterials 
+507  Additive Manufacturing 
+509  MEMS Engineering 
+520  Multiscale Modeling in Thermomechanics of Materials 
+521  Statistics of Microstructures 
+530  Elasticity 
+543  Polymer Materials and Engineering 
+547  Polymers and Surfaces for Adhesion 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+701  Master's Independent Capstone Project and /or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+353  Materials and Structures of Music IV 
+354  Applied Theory IV 
+359 [HUM] [M]  History of Music: Antiquity to 1650 
+360 [HUM] [M]  History of Music: 1650 - 1850 
+432 [ARTS]  University Singers 
+440  Jazz Combos 
+461 [CAPS]  The Musician in Society:  Philosophies and Practices, 1850 - Present 
+480  Instrumental Music Education 
+490  General Music Material/Methods 
+540  Jazz Combos 
+561  Seminar in Literature of 20th Century Music 
+580  Instrumental Music Education 
+590  General Music Material/Methods 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+430  Host-Associated Microbiome in Health and Nutrition 
+530  Host-Associated Microbiome in Health and Nutrition 
+560  Geographic Information Systems in Health and Social Sciences 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+201 [COMM]  Introduction to Communication in the Molecular Life Sciences 
+403 [M]  Cellular Neurobiology 
+409  Affective Neuroscience 
+430 [M]  Principles of Neurophysiology 
+509  Affective Neuroscience 
+590  Seminar 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+311  Evolution of Warfare 
+402  Naval Leadership and Ethics 
+424  Introduction to Naval Science Laboratory 10 
+507  Introduction to Therapeutic Agents: Top 200 Drugs 
+533  Community Introductory Pharmacy Practice Experience 
+553  Institutional Introductory Pharmacy Practice Experience 
+280 [HUM]  Islam in Theory and Practice 
+401  Advanced Formal Logic 
+406  Philosophy and Race 
+407  Seminar in Philosophy of Religion 
+420  Existentialism and Continental Philosophy 
+470  Philosophy of Law 
+501  Advanced Formal Logic 
+507  Seminar in Philosophy of Religion 
+570  Philosophy of Law 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+505  Principles and Methods of Toxicology 
+507  Principles of Therapeutics 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+2VM95:3 101 (Effective through Fall 2011)  General Physics 
+103  Problem Solving for Physics 101 
+104  Problem Solving for Physics 102 
+137 [PSCI]  Physics and Society 
+203  Problem Solving for Physics 201 
+204  Problem Solving for Physics 202 
+304  Modern Physics II 
+489  Thesis Proposal 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+301  Food Mycology 
+403  Advanced Cropping Systems 
+503  Advanced Cropping Systems 
+511  Viruses and Virus Diseases of Plants 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+305  Gender and Politics 
+405 [M]  Comparative Criminal Justice Systems 
+410  History of American Indian Sovereignty and Federal Indian Law 
+476  Revolutionary China, 1800 to Present 
+541  Evaluation Research 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+201  Degrees and Careers in Psychology 
+230  Human Sexuality 
+265  Biopsychological Effects of Alcohol and Other Drugs 
+306  Industrial Psychology 
+307  Human Factors 
+308  Organizational Psychology 
+309  Diversity in Organizations 
+310  Work, Stress, and Health 
+311 [QUAN]  Statistics in Psychology 
+312 [M]  Research Methods in Psychology 
+320  Health Psychology 
+321  Personality 
+324  Psychology of Gender 
+328 [M]  Self Control 
+342  Assessment and Treatment of Dual Diagnosis 
+348  Forensic and Legal Psychology 
+2VM95:3 350 (Effective through Summer 2011)  Social Psychology 
+350  Social Psychology 
+361  Developmental Psychology 
+363  Psychology of Aging 
+372 [BSCI]  Biological Basis of Behavior 
+384  Sensation and Perception 
+390 [M]  Alcohol Use and Abuse 
+401 [CAPS] [M]  Historical Development of Psychology 
+412 [CAPS] [M]  Psychological Testing and Assessment 
+440 [M]  Clinical/Community Psychology 
+442  Advanced Addiction Treatment Techniques 
+444 [M]  Basic Clinical Skills 
+445  Undergraduate Practicum 
+464  Behavior Disorders of Children and Adolescents 
+466  Environmental Psychology 
+468  Addictive Behavior Among Diverse Populations 
+470  Motivation 
+473 [M]  Advanced Biological Basis of Behavior 
+490  Cognition and Memory 
+491  Principles of Learning 
+495  Field Experience in Personnel Psychology 
+496  Cooperative Education Internship 
+577  Behavioral Pharmacology 
+591  Principles of Learning 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+102  Second Semester 
+203  Third Semester 
+204  Fourth Semester 
+462  History of Imperial Russia 
+463 [M]  History of the Soviet Union 
+103  Science and Scientific Thinking 
+210  Your Future in Life Sciences 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+230  Society and Technology 
+4VM95:3 250 (Effective through Summer 2008)  Perspectives on Disability 
+300 [DIVR] [M]  Intersections of Race, Class, Gender, and Sexuality 
+302  Contemporary Masculinities 
+310  Development of Social Theory 
+332 [SSCI]  Sustainability and Society 
+336  Sociology of Food 
+340 [DIVR]  Social Inequality 
+342  Urban Poverty 
+343  Sociology of Professions and Occupations 
+346  Sociology of Education 
+350  Social Psychology 
+351 [DIVR]  The Family 
+360  Social Deviance 
+361 [DIVR]  Criminology 
+362  Juvenile Delinquency 
+384  Sociology of Gender 
+390  Gender and Work 
+415 [CAPS] [M]  Globalization 
+433  Urbanization and Community Organization 
+461  Corrections 
+468  Addictive Behavior Among Diverse Populations 
+474  Social Movements 
+495 [CAPS] [M]  Internship Capstone 
+523  Qualitative Methods Practicum 
+525  Practicum in Survey Research 
+560  Geographic Information Systems in Health and Social Sciences 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+101 [PSCI]  Welcome to the Earth: An Introduction to Geology 
+102  Geology for Science Majors 
+105 [PSCI]  Natural Resources and Natural Hazards 
+250 [PSCI]  Introduction to Earth System Science 
+416  Soil Processes in the Earth's Critical Zone 
+460  Biotechnology and the Environment 
+461  Watershed Management 
+516  Soil Processes in the Earth's Critical Zone 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+302 [M]  Introduction to Agroecology 
+360  World Agricultural Systems 
+416  Soil Processes in the Earth's Critical Zone 
+442  Soil Fertility Laboratory 
+506  Research Presentations 
+508  Environmental Spatial Statistics 
+513  Environmental Soil Physics 
+516  Soil Processes in the Earth's Critical Zone 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+401  Teaching Students with Disabilities 
+402  Assessment and Curriculum for Students with Disabilities 
+403  Secondary Education for Students with Disabilities 
+404  Professional Skills in Special Education 
+409  Early Childhood Special Education 
+420  Teaching in Inclusive Classrooms 
+421  Inclusion Strategies for Special Education Teachers 
+501  Teaching Students with Disabilities 
+502  Assessment and Curriculum for Students with Disabilities 
+503  Secondary Education for Students with Disabilities 
+504  Professional Skills in Special Education 
+509  Early Childhood Special Education 
+520  Teaching in Inclusive Classrooms 
+521  Inclusion Strategies for Special Education Teachers 
+590  Practicum in Special Education 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+579  Mass Communication in Sport Management 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+2VM95:3 205 (Effective through Spring 2012)  Statistical Thinking 
+4VM95:3 205 (Effective through Summer 2012)  Statistical Thinking 
+360  Probability and Statistics 
+370  Introductory Statistics for Engineers 
+410  Topics in Probability and Statistics 
+423  Statistical Methods for Engineers and Scientists 
+456  Introduction to Statistical Theory 
+508  Environmental Spatial Statistics 
+510  Topics in Probability and Statistics 
+512  Analysis of Variance of Designed Experiments 
+520  Statistical Analysis of Qualitative Data 
+522  Biostatistics and Statistical Epidemiology 
+523  Statistical Methods for Engineers and Scientists 
+530  Predictive Models: Foundations in Data Science 
+533  Theory of Linear Models 
+535  Regression Analysis 
+536  Statistical Computing 
+548  Statistical Theory I 
+556  Introduction to Statistical Theory 
+572  Quality Control 
+573  Reliability 
+590  Statistical Consulting Practicum 
+600  Special Projects or Independent Study 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+401  Practicum in Bilingual/ESL Education 
+410  Theoretical Foundations of Bilingual/ESL Education 
+414  Methods and Materials for Bilingual/ESL Education 
+430  Methods of Teaching Secondary Science I 
+480  Multicultural Education in a Global Society 
+501  Practicum in Bilingual/ESL Education 
+509  Research in Curriculum and Assessment for Bilingual/ESL Education 
+510  Theoretical Foundations of Bilingual/ESL Education 
+514  Methods and Materials for Bilingual/ESL Education 
+549  Communicating in a Multilingual Society 
+554  Sociolinguistics 
+580  Multicultural Education in a Global Society 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+398  Honors Thesis Proposal Seminar 
+399  Honors Thesis Seminar 
+2VM95:3 101 (Effective through Fall 2010)  College Majors and Career Choice 
+800  Doctoral Research, Dissertation, and/or Examination 
+100  College Majors and Career Exploration 
+101  College Majors and Career Choice 
+409  Seminar in Viticulture and Enology 
+440  Winery Operations and Equipment 
+441  Winery Operations and Equipment Lab Field Trip 
+465  Wine Microbiology and Processing 
+600  Scientific Writing and Presentation 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Master's Special Problems, Directed Study, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+700  Master's Research, Thesis, and/or Examination 
+800  Doctoral Research, Dissertation, and/or Examination 
+308  Functional Anatomy of Domestic Animals 
+309  Comparative Vertebrate Locomotion 
+590  Seminar 
+600  Special Projects or Independent Study 
+700  Master's Research, Thesis, and/or Examination 
+702  Masters in Special Problems, Directed Study, and /or Examinations 
+800  Doctoral Research, Dissertation, and/or Examination 
+230  Human Sexuality 
+260  Rhetoric and Gender 
+300 [DIVR] [M]  Intersections of Race, Class, Gender, and Sexuality 
+302  Contemporary Masculinities 
+305  Gender and Politics 
+306 [M]  Introduction to Literary Criticism 
+307 [DIVR]  Biology of Women 
+308 [M]  Women Artists I 
+309  Women Writers 
+310 [M]  Women Artists II 
+316 [DIVR]  Gender in Cross Cultural Perspective 
+324  Psychology of Gender 
+350 [HUM]  Witches, Nuns, Merchants, and Queens in Europe 1200-1800 
+351 [DIVR]  The Family 
+382  American Literature: 1940-Present 
+384  Sociology of Gender 
+390  Gender and Work 
+403 [CAPS]  Violence Toward Women 
+409  Women Writers in the American West 
+103  Writing Collaborative for History 105 or 305 
+108  Writing Collaborative for Multilingual Writers in History 105 or 305 

@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Register</h1>
+
+    <!-- TODO: (milestone 3) Include the template for "user registration" form here..  -->
+    <form action = "{{url_for('routes.createTAShip')}}" method = "post">
+        {{ form.hidden_tag() }}
+        <div>
+            {{form.courseTitle.label}}<br>
+            {{form.courseTitle(class = "forminput")}}<br>
+
+            {% for error in form.courseTitle.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.semester.label}}<br>
+            {{form.semester(class = "forminput")}}<br>
+
+            {% for error in form.semester.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.TACount.label}}<br>
+            {{form.TACount(class = "forminput")}}<br>
+
+            {% for error in form.TACount.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.cumGPA.label}}<br>
+            {{form.cumGPA(class = "forminput")}}<br>
+
+            {% for error in form.cumGPA.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.minGrade.label}}<br>
+            {{form.minGrade(class="forminput")}}<br>
+
+            {% for error in form.minGrade.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+
+            {{form.experienceRequired.label}}<br>
+            {{form.experienceRequired}}<br>
+
+            {% for error in form.experienceRequired.errors %}
+                <span style = "color: red;">[{{error}}]</span><br>
+            {% endfor %}
+        </div>
+
+        {{form.submit(class="regButton")}}
+    </form>
+{% endblock %}

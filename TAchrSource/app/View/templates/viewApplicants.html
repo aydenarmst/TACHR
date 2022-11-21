@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>{{taship.tashipCourse.title}} - {{taship.semester}}</h1>
+    <h2>{{taship.acceptedTACount}}/{{taship.TACount}} TA's Accepted</h2>
+
+        {% for applicant in applicants %}
+            {% include '_applicant_listing.html' %}
+        {% endfor %}
+
+
+{% endblock %}
